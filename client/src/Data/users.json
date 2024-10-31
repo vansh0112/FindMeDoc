@@ -1,0 +1,194 @@
+[
+      {
+        "name": "Amit Patel",
+        "email": "amit.patel@example.com",
+        "password": "password123",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Pooja Sharma",
+        "email": "pooja.sharma@example.com",
+        "password": "securepass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Dr. Rajesh Gupta",
+        "email": "rajesh.gupta@example.com",
+        "password": "doctorpass",
+        "isAdmin": false,
+        "isDoctor": true,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Rashmi Verma",
+        "email": "rashmi.verma@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Vivek Singh",
+        "email": "vivek.singh@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Dr. Priya Bansal",
+        "email": "priya.bansal@example.com",
+        "password": "doctorpass",
+        "isAdmin": false,
+        "isDoctor": true,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Neha Khanna",
+        "email": "neha.khanna@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Rohit Mehta",
+        "email": "rohit.mehta@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Dr. Sonal Gupta",
+        "email": "sonal.gupta@example.com",
+        "password": "doctorpass",
+        "isAdmin": false,
+        "isDoctor": true,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Anita Sharma",
+        "email": "anita.sharma@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Sanjay Verma",
+        "email": "sanjay.verma@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Amit Kumar",
+        "email": "amit.kumar@example.com",
+        "password": "password123",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Pooja Sharma",
+        "email": "pooja.sharma@example.com",
+        "password": "securepass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Dr. Manish Singh",
+        "email": "manish.singh@example.com",
+        "password": "doctorpass",
+        "isAdmin": false,
+        "isDoctor": true,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Sneha Verma",
+        "email": "sneha.verma@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Rohit Mehta",
+        "email": "rohit.mehta@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Dr. Neha Gupta",
+        "email": "neha.gupta@example.com",
+        "password": "doctorpass",
+        "isAdmin": false,
+        "isDoctor": true,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Arun Khanna",
+        "email": "arun.khanna@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Manisha Patel",
+        "email": "manisha.patel@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Dr. Sanjay Kumar",
+        "email": "sanjay.kumar@example.com",
+        "password": "doctorpass",
+        "isAdmin": false,
+        "isDoctor": true,
+        "notifcation": [],
+        "seennotification": []
+      },
+      {
+        "name": "Anita Sharma",
+        "email": "anita.sharma@example.com",
+        "password": "userpass",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notifcation": [],
+        "seennotification": []
+      }
+      
+    ]
+  
+  

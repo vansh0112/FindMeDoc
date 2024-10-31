@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "651efa5d27ea69a23e949e08"
+  },
+  "userId": "651efa2827ea69a23e949dfe",
+  "firstName": "rahul",
+  "lastName": "mehta",
+  "phone": "9429088602",
+  "email": "rahul@gmail.com",
+  "address": "aaa",
+  "specialization": "cardiologist",
+  "experience": "12",
+  "feesPerCunsaltation": 500,
+  "status": "approved",
+  "timings": [
+    "06:00",
+    "08:00"
+  ],
+  "createdAt": {
+    "$date": "2023-10-05T18:03:09.289Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-16T19:02:12.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652f6451cac2847456333b74"
+  },
+  "userId": "652f5db4cac2847456333b4b",
+  "firstName": "Rajesh",
+  "lastName": "Gupta",
+  "phone": "9876543210",
+  "email": "rajesh.gupta@example.com",
+  "website": "www.rajeshguptamd.com",
+  "address": "123 Cardiology Lane, Delhi",
+  "specialization": "Cardiologist",
+  "experience": "15 years",
+  "feesPerConsultation": 150,
+  "status": "approved",
+  "timings": {
+    "startTime": "09:00 AM",
+    "endTime": "05:00 PM"
+  }
+},
+{
+  "_id": {
+    "$oid": "652f6451cac2847456333b75"
+  },
+  "userId": "652f5db4cac2847456333b4e",
+  "firstName": "Priya",
+  "lastName": "Bansal",
+  "phone": "1234567890",
+  "email": "priya.bansal@example.com",
+  "website": "www.priyabansalmd.com",
+  "address": "456 Dermatology Avenue, Mumbai",
+  "specialization": "Dermatologist",
+  "experience": "10 years",
+  "feesPerConsultation": 120,
+  "status": "approved",
+  "timings": {
+    "startTime": "10:00 AM",
+    "endTime": "04:00 PM"
+  }
+},
+{
+  "_id": {
+    "$oid": "652f6451cac2847456333b76"
+  },
+  "userId": "652f5db4cac2847456333b51",
+  "firstName": "Sonal",
+  "lastName": "Gupta",
+  "phone": "2345678901",
+  "email": "sonal.gupta@example.com",
+  "website": "www.sonalguptamd.com",
+  "address": "567 Orthopedic Street, Kolkata",
+  "specialization": "Orthopedic Surgeon",
+  "experience": "12 years",
+  "feesPerConsultation": 180,
+  "status": "approved",
+  "timings": {
+    "startTime": "08:30 AM",
+    "endTime": "05:30 PM"
+  }
+},
+{
+  "_id": {
+    "$oid": "652f6451cac2847456333b77"
+  },
+  "userId": "652f630dcac2847456333b6b",
+  "firstName": "Manish",
+  "lastName": "Singh",
+  "email": "manish.singh@example.com",
+  "website": "www.manishsinghmd.com",
+  "address": "123 Oak Street, Delhi",
+  "specialization": "General Practitioner",
+  "experience": "10 years",
+  "feesPerConsultation": 100,
+  "status": "approved",
+  "timings": {
+    "startTime": "09:00 AM",
+    "endTime": "05:00 PM"
+  }
+},
+{
+  "_id": {
+    "$oid": "652f6451cac2847456333b78"
+  },
+  "userId": "652f630dcac2847456333b6e",
+  "firstName": "Neha",
+  "lastName": "Gupta",
+  "email": "neha.gupta@example.com",
+  "website": "www.nehaguptamd.com",
+  "address": "456 Rose Avenue, Mumbai",
+  "specialization": "Pediatrician",
+  "experience": "12 years",
+  "feesPerConsultation": 150,
+  "status": "approved",
+  "timings": {
+    "startTime": "10:00 AM",
+    "endTime": "04:00 PM"
+  }
+},
+{
+  "_id": {
+    "$oid": "652f6451cac2847456333b79"
+  },
+  "userId": "652f630dcac2847456333b71",
+  "firstName": "Sanjay",
+  "lastName": "Kumar",
+  "email": "sanjay.kumar@example.com",
+  "website": "www.sanjaykumarmd.com",
+  "address": "789 Lily Lane, Kolkata",
+  "specialization": "Dentist",
+  "experience": "8 years",
+  "feesPerConsultation": 120,
+  "status": "approved",
+  "timings": {
+    "startTime": "08:30 AM",
+    "endTime": "05:30 PM"
+  }
+}]

@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "651ef98927ea69a23e949de3"
+  },
+  "name": "vansh",
+  "email": "vvshah0112@gmail.com",
+  "password": "$2a$10$hUfcf1svtDjIkUsmD0oNIucF5633ok9/pt998Qqqd9N2Gg81jrgqa",
+  "isAdmin": true,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": [],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "651efa2827ea69a23e949dfe"
+  },
+  "name": "rahul",
+  "email": "rahul@gmail.com",
+  "password": "$2a$10$/FEBscFJdupn/sa.wMazbu56w3vjEm1/g0u2EwYYiO7537viF8jKG",
+  "isAdmin": false,
+  "isDoctor": true,
+  "notifcation": [
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    }
+  ],
+  "seennotification": [
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    },
+    {
+      "type": "New-appointment-request",
+      "message": "A new Appointment Request from sahil",
+      "onCLickPath": "/user/appointments"
+    }
+  ],
+  "__v": 23
+},
+{
+  "_id": {
+    "$oid": "651efaf127ea69a23e949e50"
+  },
+  "name": "sahil",
+  "email": "sahil@gmail.com",
+  "password": "$2a$10$KO/1Ph7Sl4PTc75JWOLnOer27AX3DqgjPtxFBN3cZ9uONgvroCIt.",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [
+    {
+      "type": "status-updated",
+      "message": "your appointment has been updated approved",
+      "onCLickPath": "/doctor-appointments"
+    }
+  ],
+  "seennotification": [
+    {
+      "type": "status-updated",
+      "message": "your appointment has been updated reject",
+      "onCLickPath": "/doctor-appointments"
+    }
+  ],
+  "__v": 21
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b5e"
+  },
+  "name": "Amit Patel",
+  "email": "amit.patel@example.com",
+  "password": "password123",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b5f"
+  },
+  "name": "Pooja Sharma",
+  "email": "pooja.sharma@example.com",
+  "password": "securepass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b60"
+  },
+  "name": "Dr. Rajesh Gupta",
+  "email": "rajesh.gupta@example.com",
+  "password": "doctorpass",
+  "isAdmin": false,
+  "isDoctor": true,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b61"
+  },
+  "name": "Rashmi Verma",
+  "email": "rashmi.verma@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b62"
+  },
+  "name": "Vivek Singh",
+  "email": "vivek.singh@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b63"
+  },
+  "name": "Dr. Priya Bansal",
+  "email": "priya.bansal@example.com",
+  "password": "doctorpass",
+  "isAdmin": false,
+  "isDoctor": true,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b64"
+  },
+  "name": "Neha Khanna",
+  "email": "neha.khanna@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b65"
+  },
+  "name": "Rohit Mehta",
+  "email": "rohit.mehta@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b66"
+  },
+  "name": "Dr. Sonal Gupta",
+  "email": "sonal.gupta@example.com",
+  "password": "doctorpass",
+  "isAdmin": false,
+  "isDoctor": true,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b67"
+  },
+  "name": "Anita Sharma",
+  "email": "anita.sharma@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b68"
+  },
+  "name": "Sanjay Verma",
+  "email": "sanjay.verma@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b69"
+  },
+  "name": "Amit Kumar",
+  "email": "amit.kumar@example.com",
+  "password": "password123",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b6a"
+  },
+  "name": "Pooja Sharma",
+  "email": "pooja.sharma@example.com",
+  "password": "securepass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b6b"
+  },
+  "name": "Dr. Manish Singh",
+  "email": "manish.singh@example.com",
+  "password": "doctorpass",
+  "isAdmin": false,
+  "isDoctor": true,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b6c"
+  },
+  "name": "Sneha Verma",
+  "email": "sneha.verma@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b6d"
+  },
+  "name": "Rohit Mehta",
+  "email": "rohit.mehta@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b6e"
+  },
+  "name": "Dr. Neha Gupta",
+  "email": "neha.gupta@example.com",
+  "password": "doctorpass",
+  "isAdmin": false,
+  "isDoctor": true,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b6f"
+  },
+  "name": "Arun Khanna",
+  "email": "arun.khanna@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b70"
+  },
+  "name": "Manisha Patel",
+  "email": "manisha.patel@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b71"
+  },
+  "name": "Dr. Sanjay Kumar",
+  "email": "sanjay.kumar@example.com",
+  "password": "doctorpass",
+  "isAdmin": false,
+  "isDoctor": true,
+  "notifcation": [],
+  "seennotification": []
+},
+{
+  "_id": {
+    "$oid": "652f630dcac2847456333b72"
+  },
+  "name": "Anita Sharma",
+  "email": "anita.sharma@example.com",
+  "password": "userpass",
+  "isAdmin": false,
+  "isDoctor": false,
+  "notifcation": [],
+  "seennotification": []
+}]
